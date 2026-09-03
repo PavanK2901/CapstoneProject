@@ -1,0 +1,97 @@
+{
+  "APP001": {
+    "name": "John Smith",
+    "age": 32,
+    "employment_type": "salaried",
+    "employment_history": {
+      "current_job_tenure_years": 5,
+      "total_experience_years": 10,
+      "employer": "TechCorp Inc"
+    },
+    "credit_history": {
+      "years_of_history": 12,
+      "accounts_open": 5,
+      "accounts_closed": 2,
+      "delinquencies_count": 0,
+      "payment_on_time_percentage": 98
+    },
+    "location": "New York",
+    "verified": true
+  },
+  "APP002": {
+    "name": "Jane Doe",
+    "age": 28,
+    "employment_type": "self_employed",
+    "employment_history": {
+      "current_job_tenure_years": 2,
+      "total_experience_years": 8,
+      "employer": "Freelance Consultant"
+    },
+    "credit_history": {
+      "years_of_history": 6,
+      "accounts_open": 3,
+      "accounts_closed": 1,
+      "delinquencies_count": 1,
+      "payment_on_time_percentage": 92
+    },
+    "location": "California",
+    "verified": true
+  },
+  "APP003": {
+    "name": "Robert Johnson",
+    "age": 45,
+    "employment_type": "salaried",
+    "employment_history": {
+      "current_job_tenure_years": 15,
+      "total_experience_years": 20,
+      "employer": "Finance Corp"
+    },
+    "credit_history": {
+      "years_of_history": 20,
+      "accounts_open": 4,
+      "accounts_closed": 3,
+      "delinquencies_count": 0,
+      "payment_on_time_percentage": 99
+    },
+    "location": "Texas",
+    "verified": true
+  },
+  "APP004": {
+    "name": "Maria Garcia",
+    "age": 25,
+    "employment_type": "salaried",
+    "employment_history": {
+      "current_job_tenure_years": 1,
+      "total_experience_years": 3,
+      "employer": "StartupXYZ"
+    },
+    "credit_history": {
+      "years_of_history": 3,
+      "accounts_open": 2,
+      "accounts_closed": 0,
+      "delinquencies_count": 2,
+      "payment_on_time_percentage": 78
+    },
+    "location": "Florida",
+    "verified": true
+  },
+  "APP005": {
+    "name": "David Lee",
+    "age": 50,
+    "employment_type": "retired",
+    "employment_history": {
+      "current_job_tenure_years": 0,
+      "total_experience_years": 30,
+      "employer": "Retired"
+    },
+    "credit_history": {
+      "years_of_history": 25,
+      "accounts_open": 3,
+      "accounts_closed": 4,
+      "delinquencies_count": 0,
+      "payment_on_time_percentage": 97
+    },
+    "location": "Arizona",
+    "verified": true
+  }
+}
