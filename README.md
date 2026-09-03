@@ -192,3 +192,5 @@ Each decision includes:
 - Key decision factors
 - Detailed explanation from Claude
 - A persisted audit record (case, decision, notification) retrievable via `GET /applications/{case_id}` even after a restart
+
+# NewBeginingProject
